@@ -6,3 +6,4 @@ gTTS>=2.5
 sentencepiece>=0.2.0
 protobuf>=4.0
 hf_xet>=1.1
+torchvision>=0.17,<1.0
