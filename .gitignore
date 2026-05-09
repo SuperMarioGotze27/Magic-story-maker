@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Hugging Face cache (large, regenerated on first run)
+.cache/
+huggingface/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Generated artefacts
+*.mp3
+*.wav
+*.log
+
+# Streamlit upload cache / loose images at repo root
+/*.png
+/*.jpg
+/*.jpeg
